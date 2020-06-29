@@ -13,7 +13,7 @@
     -basics of htmk5 <br>
     -html tags and attributes<br>
     -using gitbash<br>
-    -<br><br><br>
+    <br><br><br>
 
 - Any useful resource found<br>
     -w3schools.com<br>
